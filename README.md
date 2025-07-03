@@ -5,3 +5,4 @@ Remotely Operated Vehicle (ROV), created in Autodesk Inventor for underwater exp
 
 ![Colour Model Render ](ROV.jpg)
 ![Colour Model Render](ROV2.jpg)
+![electric_schemat](electric_schemat.jpeg)
